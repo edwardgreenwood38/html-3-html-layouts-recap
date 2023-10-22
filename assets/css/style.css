@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.mini-layout {
+    display: flex;
+}
+
+span {
+    display: inline-block;
+    margin: 15px 30px;
+}
+
+p {
+    width: 200px;
+}
